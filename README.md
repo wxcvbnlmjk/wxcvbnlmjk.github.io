@@ -1,2 +1,0 @@
-# wxcvbnlmjk.github.io
-demo
